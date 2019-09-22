@@ -1,0 +1,13 @@
+links.txt
+Created Sat Sep 21 16:11:26 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+growisofs related links
+
+
+Links
+=====
+DVD writing using growisofs
+18 Dec 2012 in Data Storage, System
+https://www.axllent.org/docs/view/dvd-writing-using-growisofs/
