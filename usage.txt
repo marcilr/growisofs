@@ -1,0 +1,31 @@
+usage.txt
+Created Sat Sep 21 16:15:36 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Usage of growisofs
+
+
+"To continue a DVD (multisession)
+  growisofs -M /dev/dvd -R -J /more/files
+
+The software will automatically search for the last track
+written to the DVD, and append the new track to it."
+--axllent.org/
+
+
+"To burn an .iso file to a DVD
+  growisofs -Z /dev/dvd=file.iso
+
+This will burn an .iso file to a DVD"
+--axllent.org/
+
+
+
+
+Links
+=====
+DVD writing using growisofs
+18 Dec 2012 in Data Storage, System
+https://www.axllent.org/docs/view/dvd-writing-using-growisofs/
+
